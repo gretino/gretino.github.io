@@ -24,9 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-[repository settings](https://github.com/gretino/gretino.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml`
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[repository settings](https://github.com/gretino/gretino.github.io/settings/pages)
 [documentation](https://docs.github.com/categories/github-pages-basics/)
 [contact support](https://support.github.com/contact)
