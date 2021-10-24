@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
-
 [editor on GitHub](https://github.com/gretino/gretino.github.io/edit/main/README.md)
-
 [Jekyll](https://jekyllrb.com/)
-
 ### Markdown
-
 ```markdown
 Syntax highlighted code block
 
